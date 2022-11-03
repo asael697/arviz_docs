@@ -1,4 +1,5 @@
 # Evaluation of data visualization effectiveness
+## ArviZ - Google Season of Docs 2021
 
 The repository contains an evaluation of ArviZ's current functions for visualization and diagnostics. 
 For every function, I performed two different analyses: 
