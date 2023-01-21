@@ -22,5 +22,5 @@ The project execution is performed by weekly reports in which every piece contai
  
  + [Week 2](https://github.com/asael697/arviz_docs/blob/main/weeks/week2.ipynb): ecdf, elpd, energy, ESS, hdi, kde, khat, lm, loo_pit, mcse, pair, and parallel plots.
  
- + [Week 3](https://github.com/asael697/arviz_docs/blob/main/weeks/week3.ipynb): Posterior, PPC, Rank, Separation, Trace, ts, and Violin plots. 
+ + [Week 3](https://github.com/asael697/arviz_docs/blob/main/weeks/Week3.ipynb): Posterior, PPC, Rank, Separation, Trace, ts, and Violin plots. 
 
