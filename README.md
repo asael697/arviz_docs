@@ -19,3 +19,8 @@ After the analysis, I did a checkup of the current open issues that are relevant
 The project execution is performed by weekly reports in which every piece contains a list of the most relevant comments and issues found in every evaluated plot. The current week's reports are as follows:
 
  + [Week 1](https://github.com/asael697/arviz_docs/blob/main/weeks/week1.ipynb): auto-corr, Bayesian p-values, compare, density, distribution, dot, and forest plots.
+ 
+ + [Week 2](https://github.com/asael697/arviz_docs/blob/main/weeks/week2.ipynb): ecdf, elpd, energy, ESS, hdi, kde, khat, lm, loo_pit, mcse, pair, and parallel plots.
+ 
+ + [Week 3](https://github.com/asael697/arviz_docs/blob/main/weeks/week3.ipynb): Posterior, PPC, Rank, Separation, Trace, ts, and Violin plots. 
+
